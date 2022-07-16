@@ -1,2 +1,3 @@
 # MinecraftPlugin
-developed with  spigot library .It's a XO(Tic Tac To)  game which Implemented in the Minecraft environment
+Developed using spigot library  <br/> 
+It's a  <b>XO(Tic Tac To) </b>  game which Implemented in the Minecraft environment
