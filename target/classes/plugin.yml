@@ -1,0 +1,38 @@
+name: Soland
+version: '1.0-SNAPSHOT'
+main: com.soland.ap.XOPlugin
+api-version: 1.18
+authors: [ Soland ]
+description: AP Final Project
+commands:
+
+  challenge:
+    description: challenge player for XO battle
+    usage: /<command>
+
+  put:
+    description: put block on input position
+    usage: /<command>
+
+  deny:
+    description: deny requested challenge
+    usage: /<command>
+
+  accept:
+    description: accept requested challenge
+    usage: /<command>
+
+  build:
+      description: build requested challenge
+      usage: /<command>
+  end:
+    description: end game
+    usage: /<command>
+
+  save:
+    description: save game
+    usage: /<command>
+
+  load:
+    description: load game
+    usage: /<command>
